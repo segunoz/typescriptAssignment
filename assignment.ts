@@ -4,7 +4,7 @@ class car{
     isEngineRunning: Boolean;
     isEngineFaulty: Boolean;
 
-    constructor(engineType: String, chassisType: String, isEngineRunning: Boolean,  isEineFaulty: Boolean){
+    constructor(engineType: String, chassisType: String, isEngineRunning: Boolean,  isEngineFaulty: Boolean){
         this.engineType = engineType;
         this.chassisType = chassisType;
         this.isEngineRunning =  isEngineRunning;
