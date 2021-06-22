@@ -32,5 +32,5 @@ class car{
 
 let toyota = new car("v6", "outmoded", true, false);
 toyota.displayCarDetails();
-toyota.checkEngineRunning;
-toyota.checkEngineFaulty;
+toyota.checkEngineRunning();
+toyota.checkEngineFaulty();
